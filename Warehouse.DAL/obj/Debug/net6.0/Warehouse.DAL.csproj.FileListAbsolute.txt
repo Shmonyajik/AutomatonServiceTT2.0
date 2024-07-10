@@ -1,0 +1,17 @@
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\bin\Debug\net6.0\Warehouse.DAL.deps.json
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\bin\Debug\net6.0\Warehouse.DAL.runtimeconfig.json
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\bin\Debug\net6.0\Warehouse.DAL.dll
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\bin\Debug\net6.0\Warehouse.DAL.pdb
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\bin\Debug\net6.0\Warehouse.Domain.dll
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\bin\Debug\net6.0\Warehouse.Domain.pdb
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\Warehouse.DAL.csproj.AssemblyReference.cache
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\Warehouse.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\Warehouse.DAL.AssemblyInfoInputs.cache
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\Warehouse.DAL.AssemblyInfo.cs
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\Warehouse.DAL.csproj.CoreCompileInputs.cache
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\Warehous.60A89969.Up2Date
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\Warehouse.DAL.dll
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\refint\Warehouse.DAL.dll
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\Warehouse.DAL.pdb
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\Warehouse.DAL.genruntimeconfig.cache
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.DAL\obj\Debug\net6.0\ref\Warehouse.DAL.dll

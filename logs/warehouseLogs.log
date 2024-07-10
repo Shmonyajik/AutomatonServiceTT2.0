@@ -1,0 +1,311 @@
+2024-07-10 23:18:06.690 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-10 23:18:06.880 +03:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-10 23:18:07.427 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-10 23:18:07.809 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-10 23:18:07.811 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-10 23:18:07.815 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 23:18:07.816 +03:00 [INF] Hosting environment: Development
+2024-07-10 23:18:07.817 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-10 23:18:50.355 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-10 23:18:50.534 +03:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-10 23:18:50.855 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-10 23:18:51.662 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-10 23:18:51.664 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-10 23:18:51.668 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 23:18:51.669 +03:00 [INF] Hosting environment: Development
+2024-07-10 23:18:51.671 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-10 23:20:27.741 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-10 23:20:27.934 +03:00 [INF] Executed DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-10 23:20:28.280 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-10 23:20:28.673 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-10 23:20:28.674 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-10 23:20:28.680 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 23:20:28.681 +03:00 [INF] Hosting environment: Development
+2024-07-10 23:20:28.683 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-10 23:44:57.092 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-10 23:44:57.304 +03:00 [INF] Executed DbCommand (21ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-10 23:44:57.693 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-10 23:44:58.051 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-10 23:44:58.052 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-10 23:44:58.058 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 23:44:58.060 +03:00 [INF] Hosting environment: Development
+2024-07-10 23:44:58.062 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-10 23:55:22.859 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-10 23:55:23.006 +03:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-10 23:55:23.353 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-10 23:55:23.750 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-10 23:55:23.751 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-10 23:55:23.755 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 23:55:23.757 +03:00 [INF] Hosting environment: Development
+2024-07-10 23:55:23.759 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-10 23:58:47.051 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-10 23:58:47.134 +03:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-10 23:58:47.310 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-10 23:58:47.443 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-10 23:58:47.444 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-10 23:58:47.447 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-10 23:58:47.448 +03:00 [INF] Hosting environment: Development
+2024-07-10 23:58:47.450 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:03:08.005 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:03:08.151 +03:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-11 00:03:08.534 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-11 00:03:08.844 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-11 00:03:08.845 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-11 00:03:08.848 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 00:03:08.850 +03:00 [INF] Hosting environment: Development
+2024-07-11 00:03:08.851 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:09:34.808 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:09:34.968 +03:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-11 00:09:35.302 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-11 00:09:35.646 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-11 00:09:35.647 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-11 00:09:35.651 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 00:09:35.652 +03:00 [INF] Hosting environment: Development
+2024-07-11 00:09:35.653 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:13:16.230 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:13:16.400 +03:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-11 00:13:16.693 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-11 00:13:16.964 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-11 00:13:16.965 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-11 00:13:16.969 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 00:13:16.970 +03:00 [INF] Hosting environment: Development
+2024-07-11 00:13:16.971 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:22:25.477 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:22:25.646 +03:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-11 00:22:25.995 +03:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-11 00:22:26.315 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-11 00:22:26.316 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-11 00:22:26.320 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 00:22:26.321 +03:00 [INF] Hosting environment: Development
+2024-07-11 00:22:26.322 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:25:35.084 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:25:35.227 +03:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-11 00:25:35.521 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-11 00:25:35.713 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 00:25:35.713 +03:00 [INF] Hosting environment: Development
+2024-07-11 00:25:35.713 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:25:35.734 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A64498%2Fdevtools%2Fbrowser%2F9d821726-7e2c-451f-905b-4852158c7d70 - -
+2024-07-11 00:25:35.734 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A64498%2Fdevtools%2Fbrowser%2F9d821726-7e2c-451f-905b-4852158c7d70 - -
+2024-07-11 00:25:36.007 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A64498%2Fdevtools%2Fbrowser%2F9d821726-7e2c-451f-905b-4852158c7d70 - - - 0 - - 270.3343ms
+2024-07-11 00:25:36.024 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A64498%2Fdevtools%2Fbrowser%2F9d821726-7e2c-451f-905b-4852158c7d70 - - - 302 - - 293.6886ms
+2024-07-11 00:25:36.327 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger - -
+2024-07-11 00:25:36.484 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger - - - 301 - - 156.6669ms
+2024-07-11 00:25:36.485 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/index.html - -
+2024-07-11 00:25:36.582 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/index.html - - - 200 - text/html;charset=utf-8 96.6330ms
+2024-07-11 00:25:36.674 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - -
+2024-07-11 00:25:36.674 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/swagger-ui-bundle.js - -
+2024-07-11 00:25:36.677 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/swagger-ui-standalone-preset.js - -
+2024-07-11 00:25:36.678 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/swagger-ui.css - -
+2024-07-11 00:25:36.692 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/_vs/browserLink - -
+2024-07-11 00:25:36.701 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - - - 200 13762 application/javascript;+charset=utf-8 30.8728ms
+2024-07-11 00:25:36.735 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-07-11 00:25:36.735 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-07-11 00:25:36.742 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/swagger-ui.css - - - 200 143632 text/css 64.1446ms
+2024-07-11 00:25:36.746 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-07-11 00:25:36.749 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 74.8606ms
+2024-07-11 00:25:36.770 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 96.1502ms
+2024-07-11 00:25:36.802 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 109.5828ms
+2024-07-11 00:25:36.934 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - -
+2024-07-11 00:25:36.961 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/favicon-32x32.png - -
+2024-07-11 00:25:36.962 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-07-11 00:25:36.963 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/favicon-32x32.png - - - 200 628 image/png 1.6573ms
+2024-07-11 00:25:37.078 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 143.6734ms
+2024-07-11 00:31:16.166 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:31:16.305 +03:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-11 00:31:16.610 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-11 00:31:16.778 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 00:31:16.787 +03:00 [INF] Hosting environment: Development
+2024-07-11 00:31:16.787 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:31:16.807 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A55510%2Fdevtools%2Fbrowser%2F233e6d96-ae27-453f-a094-aeb88a1c48c2 - -
+2024-07-11 00:31:16.807 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A55510%2Fdevtools%2Fbrowser%2F233e6d96-ae27-453f-a094-aeb88a1c48c2 - -
+2024-07-11 00:31:16.807 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A55510%2Fdevtools%2Fbrowser%2F233e6d96-ae27-453f-a094-aeb88a1c48c2 - -
+2024-07-11 00:31:17.062 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A55510%2Fdevtools%2Fbrowser%2F233e6d96-ae27-453f-a094-aeb88a1c48c2 - - - 0 - - 253.0145ms
+2024-07-11 00:31:17.062 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A55510%2Fdevtools%2Fbrowser%2F233e6d96-ae27-453f-a094-aeb88a1c48c2 - - - 0 - - 253.0123ms
+2024-07-11 00:31:17.073 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A55510%2Fdevtools%2Fbrowser%2F233e6d96-ae27-453f-a094-aeb88a1c48c2 - - - 302 - - 269.8093ms
+2024-07-11 00:31:17.383 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/index.html - -
+2024-07-11 00:31:17.615 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/index.html - - - 200 - text/html;charset=utf-8 231.6915ms
+2024-07-11 00:31:18.698 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - -
+2024-07-11 00:31:18.704 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - - - 200 13762 application/javascript;+charset=utf-8 5.9807ms
+2024-07-11 00:31:18.707 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/_vs/browserLink - -
+2024-07-11 00:31:18.788 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 81.8507ms
+2024-07-11 00:31:18.945 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - -
+2024-07-11 00:31:19.221 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 276.2083ms
+2024-07-11 00:32:32.354 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:32:32.549 +03:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-11 00:32:32.926 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-11 00:32:37.816 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 00:32:37.821 +03:00 [INF] Hosting environment: Development
+2024-07-11 00:32:37.822 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:32:37.841 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - -
+2024-07-11 00:32:37.841 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - -
+2024-07-11 00:32:37.841 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - -
+2024-07-11 00:32:37.841 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - -
+2024-07-11 00:32:37.841 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - -
+2024-07-11 00:32:38.052 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - -
+2024-07-11 00:32:38.126 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - - - 0 - - 282.1637ms
+2024-07-11 00:32:38.126 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - - - 0 - - 282.2011ms
+2024-07-11 00:32:38.126 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - - - 0 - - 282.1720ms
+2024-07-11 00:32:38.126 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - - - 0 - - 282.1840ms
+2024-07-11 00:32:38.126 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - - - 0 - - 282.1962ms
+2024-07-11 00:32:38.145 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56126%2Fdevtools%2Fbrowser%2F38b5b1b5-eb74-4644-b1dc-545cf157eedb - - - 302 - - 92.2397ms
+2024-07-11 00:32:38.453 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/index.html - -
+2024-07-11 00:32:38.733 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/index.html - - - 200 - text/html;charset=utf-8 279.9709ms
+2024-07-11 00:32:38.834 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - -
+2024-07-11 00:32:38.840 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - - - 200 13762 application/javascript;+charset=utf-8 5.7771ms
+2024-07-11 00:32:38.845 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/_vs/browserLink - -
+2024-07-11 00:32:38.921 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 75.7480ms
+2024-07-11 00:32:38.979 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - -
+2024-07-11 00:33:45.969 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 66989.8104ms
+2024-07-11 00:34:37.453 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/api/Product - -
+2024-07-11 00:34:37.493 +03:00 [INF] Executing endpoint 'Warehouse.API.Controllers.ProductController.GetAll (Warehouse.API)'
+2024-07-11 00:34:37.507 +03:00 [INF] Route matched with {action = "GetAll", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller Warehouse.API.Controllers.ProductController (Warehouse.API).
+2024-07-11 00:34:37.517 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:34:41.173 +03:00 [INF] Request to ProductService: GetAllAsync()
+2024-07-11 00:34:41.241 +03:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "p"."Id", "p"."Name"
+FROM "Product" AS "p"
+2024-07-11 00:34:41.316 +03:00 [INF] Returned successful response from ProductService: GetAllAsync()
+2024-07-11 00:34:41.322 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Warehouse.Shared.DTOs.Products.ProductDto, Warehouse.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-11 00:34:41.332 +03:00 [INF] Executed action Warehouse.API.Controllers.ProductController.GetAll (Warehouse.API) in 3821.0434ms
+2024-07-11 00:34:41.333 +03:00 [INF] Executed endpoint 'Warehouse.API.Controllers.ProductController.GetAll (Warehouse.API)'
+2024-07-11 00:34:41.341 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/api/Product - - - 200 - application/json;+charset=utf-8 3887.3115ms
+2024-07-11 00:34:56.231 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/api/Product/1 - -
+2024-07-11 00:34:56.233 +03:00 [INF] Executing endpoint 'Warehouse.API.Controllers.ProductController.Get (Warehouse.API)'
+2024-07-11 00:34:56.244 +03:00 [INF] Route matched with {action = "Get", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get(Int64) on controller Warehouse.API.Controllers.ProductController (Warehouse.API).
+2024-07-11 00:34:56.280 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:34:58.552 +03:00 [INF] Request to ProductService: GetAsync(1)
+2024-07-11 00:34:58.634 +03:00 [INF] Executed DbCommand (5ms) [Parameters=[@__p_0='?' (DbType = Int64)], CommandType='"Text"', CommandTimeout='30']
+SELECT "p"."Id", "p"."Name"
+FROM "Product" AS "p"
+WHERE "p"."Id" = @__p_0
+LIMIT 1
+2024-07-11 00:34:58.636 +03:00 [INF] Returned successful response from ProductService: GetAsync(1)
+2024-07-11 00:34:58.637 +03:00 [INF] Executing OkObjectResult, writing value of type 'Warehouse.Shared.DTOs.Products.ProductDto'.
+2024-07-11 00:34:58.637 +03:00 [INF] Executed action Warehouse.API.Controllers.ProductController.Get (Warehouse.API) in 2392.7082ms
+2024-07-11 00:34:58.637 +03:00 [INF] Executed endpoint 'Warehouse.API.Controllers.ProductController.Get (Warehouse.API)'
+2024-07-11 00:34:58.638 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/api/Product/1 - - - 200 - application/json;+charset=utf-8 2406.0972ms
+2024-07-11 00:35:19.545 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/api/Storage - -
+2024-07-11 00:35:19.545 +03:00 [INF] Executing endpoint 'Warehouse.API.Controllers.StorageController.GetAll (Warehouse.API)'
+2024-07-11 00:35:19.554 +03:00 [INF] Route matched with {action = "GetAll", controller = "Storage"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller Warehouse.API.Controllers.StorageController (Warehouse.API).
+2024-07-11 00:35:19.556 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:35:21.932 +03:00 [INF] Request to StorageService: GetAllAsync()
+2024-07-11 00:35:21.935 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "s"."Id"
+FROM "Storage" AS "s"
+2024-07-11 00:35:21.951 +03:00 [INF] Returned successful response from StorageService: GetAllAsync()
+2024-07-11 00:35:21.951 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Warehouse.Shared.DTOs.Storages.StorageDto, Warehouse.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-11 00:35:21.953 +03:00 [INF] Executed action Warehouse.API.Controllers.StorageController.GetAll (Warehouse.API) in 2398.7243ms
+2024-07-11 00:35:21.953 +03:00 [INF] Executed endpoint 'Warehouse.API.Controllers.StorageController.GetAll (Warehouse.API)'
+2024-07-11 00:35:21.953 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/api/Storage - - - 200 - application/json;+charset=utf-8 2408.5552ms
+2024-07-11 00:40:19.478 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:40:19.617 +03:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-11 00:40:19.939 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-11 00:40:20.142 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 00:40:20.143 +03:00 [INF] Hosting environment: Development
+2024-07-11 00:40:20.143 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:40:20.175 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56841%2Fdevtools%2Fbrowser%2Fc8815856-8808-4e25-aeb7-7a593f40eb84 - -
+2024-07-11 00:40:20.175 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56841%2Fdevtools%2Fbrowser%2Fc8815856-8808-4e25-aeb7-7a593f40eb84 - -
+2024-07-11 00:40:20.175 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56841%2Fdevtools%2Fbrowser%2Fc8815856-8808-4e25-aeb7-7a593f40eb84 - -
+2024-07-11 00:40:20.493 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56841%2Fdevtools%2Fbrowser%2Fc8815856-8808-4e25-aeb7-7a593f40eb84 - - - 0 - - 318.6552ms
+2024-07-11 00:40:20.493 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56841%2Fdevtools%2Fbrowser%2Fc8815856-8808-4e25-aeb7-7a593f40eb84 - - - 0 - - 318.6205ms
+2024-07-11 00:40:20.511 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A56841%2Fdevtools%2Fbrowser%2Fc8815856-8808-4e25-aeb7-7a593f40eb84 - - - 302 - - 342.1871ms
+2024-07-11 00:40:21.124 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/index.html - -
+2024-07-11 00:40:21.434 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/index.html - - - 200 - text/html;charset=utf-8 310.5214ms
+2024-07-11 00:40:21.517 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - -
+2024-07-11 00:40:21.531 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - - - 200 13762 application/javascript;+charset=utf-8 8.5517ms
+2024-07-11 00:40:21.532 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/_vs/browserLink - -
+2024-07-11 00:40:21.609 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 77.0090ms
+2024-07-11 00:40:21.658 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - -
+2024-07-11 00:40:21.799 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 140.6756ms
+2024-07-11 00:45:54.290 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:45:54.371 +03:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-11 00:45:54.558 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-11 00:45:54.675 +03:00 [INF] Now listening on: https://localhost:7000
+2024-07-11 00:45:54.677 +03:00 [INF] Now listening on: http://localhost:5100
+2024-07-11 00:45:54.680 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 00:45:54.682 +03:00 [INF] Hosting environment: Development
+2024-07-11 00:45:54.683 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:48:38.060 +03:00 [INF] Entity Framework Core 6.0.3 initialized 'WarehouseDbContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:6.0.3' with options: None
+2024-07-11 00:48:38.201 +03:00 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2024-07-11 00:48:38.499 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT EXISTS (
+    SELECT 1
+    FROM "Storage" AS "s")
+2024-07-11 00:48:38.762 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-11 00:48:38.777 +03:00 [INF] Hosting environment: Development
+2024-07-11 00:48:38.777 +03:00 [INF] Content root path: C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.API\
+2024-07-11 00:48:38.804 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A59532%2Fdevtools%2Fbrowser%2F1ff92bba-c216-4439-90f7-30f593f0bb47 - -
+2024-07-11 00:48:38.804 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A59532%2Fdevtools%2Fbrowser%2F1ff92bba-c216-4439-90f7-30f593f0bb47 - -
+2024-07-11 00:48:38.804 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A59532%2Fdevtools%2Fbrowser%2F1ff92bba-c216-4439-90f7-30f593f0bb47 - -
+2024-07-11 00:48:39.183 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A59532%2Fdevtools%2Fbrowser%2F1ff92bba-c216-4439-90f7-30f593f0bb47 - - - 0 - - 378.5586ms
+2024-07-11 00:48:39.183 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A59532%2Fdevtools%2Fbrowser%2F1ff92bba-c216-4439-90f7-30f593f0bb47 - - - 0 - - 379.2370ms
+2024-07-11 00:48:39.244 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A59532%2Fdevtools%2Fbrowser%2F1ff92bba-c216-4439-90f7-30f593f0bb47 - - - 302 - - 444.6579ms
+2024-07-11 00:48:39.811 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/index.html - -
+2024-07-11 00:48:40.059 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/index.html - - - 200 - text/html;charset=utf-8 248.5845ms
+2024-07-11 00:48:40.144 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - -
+2024-07-11 00:48:40.151 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/_framework/aspnetcore-browser-refresh.js - - - 200 13762 application/javascript;+charset=utf-8 6.5394ms
+2024-07-11 00:48:40.160 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/_vs/browserLink - -
+2024-07-11 00:48:40.246 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 85.3457ms
+2024-07-11 00:48:40.308 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - -
+2024-07-11 00:48:40.540 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44393/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 231.4179ms

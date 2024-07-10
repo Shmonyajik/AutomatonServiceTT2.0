@@ -1,0 +1,11 @@
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\bin\Debug\net6.0\Warehouse.Domain.deps.json
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\bin\Debug\net6.0\Warehouse.Domain.dll
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\bin\Debug\net6.0\Warehouse.Domain.pdb
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\obj\Debug\net6.0\Warehouse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\obj\Debug\net6.0\Warehouse.Domain.AssemblyInfoInputs.cache
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\obj\Debug\net6.0\Warehouse.Domain.AssemblyInfo.cs
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\obj\Debug\net6.0\Warehouse.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\obj\Debug\net6.0\Warehouse.Domain.dll
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\obj\Debug\net6.0\refint\Warehouse.Domain.dll
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\obj\Debug\net6.0\Warehouse.Domain.pdb
+C:\Users\LIIIY4962\Downloads\Тестовое задание\Warehouse.Domain\obj\Debug\net6.0\ref\Warehouse.Domain.dll

@@ -1,0 +1,704 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|solutionrelative:warehouse.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|solutionrelative:warehouse.client\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|solutionrelative:warehouse.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|solutionrelative:warehouse.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\warehousedb.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\warehousedb.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\hubs\\storagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\hubs\\storagehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\warehousedb.db-wal||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\warehousedb.db-wal||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.client\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|solutionrelative:warehouse.client\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\warehouse.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\warehouse.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\services\\communication\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\services\\communication\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\warehousedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\warehousedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6226E779-15F1-4876-A78C-5306FE87ADD1}|Warehouse.Shared\\Warehouse.Shared.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.shared\\dtos\\storages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6226E779-15F1-4876-A78C-5306FE87ADD1}|Warehouse.Shared\\Warehouse.Shared.csproj|solutionrelative:warehouse.shared\\dtos\\storages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76119AAA-4577-4E97-A6F8-AD323B7A9C15}|Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.domain\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76119AAA-4577-4E97-A6F8-AD323B7A9C15}|Warehouse.Domain\\Warehouse.Domain.csproj|solutionrelative:warehouse.domain\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\configuration\\storageproductconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\configuration\\storageproductconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.client\\warehouse.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C13D0340-0CAA-4037-BBCD-23BC9EAA73C7}|Warehouse.Client\\Warehouse.Client.csproj|solutionrelative:warehouse.client\\warehouse.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\mapping\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\mapping\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.api\\mapping\\storageproductprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D9C2A2-420F-4454-87A9-5B48C099EEBB}|Warehouse.API\\Warehouse.API.csproj|solutionrelative:warehouse.api\\mapping\\storageproductprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6226E779-15F1-4876-A78C-5306FE87ADD1}|Warehouse.Shared\\Warehouse.Shared.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.shared\\dtos\\storageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6226E779-15F1-4876-A78C-5306FE87ADD1}|Warehouse.Shared\\Warehouse.Shared.csproj|solutionrelative:warehouse.shared\\dtos\\storageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6226E779-15F1-4876-A78C-5306FE87ADD1}|Warehouse.Shared\\Warehouse.Shared.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.shared\\dtos\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6226E779-15F1-4876-A78C-5306FE87ADD1}|Warehouse.Shared\\Warehouse.Shared.csproj|solutionrelative:warehouse.shared\\dtos\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76119AAA-4577-4E97-A6F8-AD323B7A9C15}|Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76119AAA-4577-4E97-A6F8-AD323B7A9C15}|Warehouse.Domain\\Warehouse.Domain.csproj|solutionrelative:warehouse.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76119AAA-4577-4E97-A6F8-AD323B7A9C15}|Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76119AAA-4577-4E97-A6F8-AD323B7A9C15}|Warehouse.Domain\\Warehouse.Domain.csproj|solutionrelative:warehouse.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76119AAA-4577-4E97-A6F8-AD323B7A9C15}|Warehouse.Domain\\Warehouse.Domain.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76119AAA-4577-4E97-A6F8-AD323B7A9C15}|Warehouse.Domain\\Warehouse.Domain.csproj|solutionrelative:warehouse.domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\migrations\\warehousedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\migrations\\warehousedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\migrations\\20221201003113_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\migrations\\20221201003113_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|c:\\users\\liiiy4962\\downloads\\\u0442\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\warehouse.dal\\configuration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3CE683-29B3-4B56-AAAC-DF8E3EDF95DE}|Warehouse.DAL\\Warehouse.DAL.csproj|solutionrelative:warehouse.dal\\configuration\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\App.razor",
+              "RelativeDocumentMoniker": "Warehouse.Client\\App.razor",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\App.razor",
+              "RelativeToolTip": "Warehouse.Client\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T21:39:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\libman.json",
+              "RelativeDocumentMoniker": "Warehouse.API\\libman.json",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\libman.json",
+              "RelativeToolTip": "Warehouse.API\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T21:00:36.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Warehouse.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\Program.cs",
+              "RelativeToolTip": "Warehouse.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Services\\Communication\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Services\\Communication\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Services\\Communication\\ServiceResponse.cs",
+              "RelativeToolTip": "Warehouse.API\\Services\\Communication\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Warehouse.Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Warehouse.Client\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T20:53:55.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Program.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Program.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Program.cs",
+              "RelativeToolTip": "Warehouse.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Warehouse.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Controllers\\StorageController.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "Warehouse.API\\Controllers\\StorageController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Storages.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Shared\\DTOs\\Storages.cs",
+              "RelativeDocumentMoniker": "Warehouse.Shared\\DTOs\\Storages.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Shared\\DTOs\\Storages.cs",
+              "RelativeToolTip": "Warehouse.Shared\\DTOs\\Storages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StorageHub.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Hubs\\StorageHub.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Hubs\\StorageHub.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Hubs\\StorageHub.cs",
+              "RelativeToolTip": "Warehouse.API\\Hubs\\StorageHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:54:32.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Warehouse.Client\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Warehouse.Client\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T19:15:54.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarehouseDb.db",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\WarehouseDb.db",
+              "RelativeDocumentMoniker": "Warehouse.API\\WarehouseDb.db",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\WarehouseDb.db",
+              "RelativeToolTip": "Warehouse.API\\WarehouseDb.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGGSURBVDhPY2SAgsry0vsMDP8VoFwsgPHBn38Mgd3d3RegAkDl//9DWSADSv7/\u002BvULJwbJNzXUvi8tLTWAagEDJihNFEhITBbg5ebYj2wI0QYICAgwTJ82heH79\u002B8CLEz/90OFEQDdC3uOnPm/69ApFDEYBqmFasN0wdXbDxh2HDzJ8O79B4a3794zrN9\u002BgOHc5RtQWUyAYQALExPDt2/fGUz0NBlMDbQYvn3/xsDCgtunGDJ//v5l\u002BP37F8Pff38Z/gHZf37/Zvjz5y9UFhNgGPDz508GUOI4cPQUw74jJxgYgZxTZ88DXfIDogANYBhgpKvBEObnxsDHw8XwF2jzsxdPGR49eczQ0TeR4cbN21BVCIDTc4FeLgyezjYMHz98ZGirKWf48O4dAwcHG1QWAXCHDhB8/QoMQKCK3KJSBlZWZpSUCwN4DVBXVWaoKMpnsLG0YOjtaGNQVMDMKngNAAFuLi6G8NBgKA8TEDSAEEDKzsXA7MyIJzsjg/8P2jt7FRkYGBgAmdPDqvBXzR4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-10T21:22:55.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Warehouse.API\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WarehouseDb.db-wal",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\WarehouseDb.db-wal",
+              "RelativeDocumentMoniker": "Warehouse.API\\WarehouseDb.db-wal",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\WarehouseDb.db-wal",
+              "RelativeToolTip": "Warehouse.API\\WarehouseDb.db-wal",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-10T21:23:03.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Warehouse.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Warehouse.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T21:24:17.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Warehouse.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\appsettings.Development.json",
+              "RelativeToolTip": "Warehouse.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T21:00:41.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Warehouse.API\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "weather.json",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\wwwroot\\sample-data\\weather.json",
+              "RelativeDocumentMoniker": "Warehouse.Client\\wwwroot\\sample-data\\weather.json",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\wwwroot\\sample-data\\weather.json",
+              "RelativeToolTip": "Warehouse.Client\\wwwroot\\sample-data\\weather.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T20:21:49.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\DbInitializer.cs",
+              "RelativeToolTip": "Warehouse.DAL\\DbInitializer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Warehouse.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\appsettings.json",
+              "RelativeToolTip": "Warehouse.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T19:15:53.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Services\\StorageService.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Services\\StorageService.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Services\\StorageService.cs",
+              "RelativeToolTip": "Warehouse.API\\Services\\StorageService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAApwEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Warehouse.API",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Warehouse.API.csproj",
+              "RelativeDocumentMoniker": "Warehouse.API\\Warehouse.API.csproj",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Warehouse.API.csproj",
+              "RelativeToolTip": "Warehouse.API\\Warehouse.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T19:27:15.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Warehouse.DAL\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StorageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Repositories\\StorageRepository.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\Repositories\\StorageRepository.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Repositories\\StorageRepository.cs",
+              "RelativeToolTip": "Warehouse.DAL\\Repositories\\StorageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WarehouseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\WarehouseDbContext.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\WarehouseDbContext.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\WarehouseDbContext.cs",
+              "RelativeToolTip": "Warehouse.DAL\\WarehouseDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Domain\\Models\\Storage.cs",
+              "RelativeDocumentMoniker": "Warehouse.Domain\\Models\\Storage.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Domain\\Models\\Storage.cs",
+              "RelativeToolTip": "Warehouse.Domain\\Models\\Storage.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAtwDwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StorageProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Configuration\\StorageProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\Configuration\\StorageProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Configuration\\StorageProductConfiguration.cs",
+              "RelativeToolTip": "Warehouse.DAL\\Configuration\\StorageProductConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\Configuration\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "Warehouse.DAL\\Configuration\\ProductConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Services\\ProductService.cs",
+              "RelativeToolTip": "Warehouse.API\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:54.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Warehouse.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\Warehouse.Client.csproj",
+              "RelativeDocumentMoniker": "Warehouse.Client\\Warehouse.Client.csproj",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Client\\Warehouse.Client.csproj",
+              "RelativeToolTip": "Warehouse.Client\\Warehouse.Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-10T19:15:54.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Mapping\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Mapping\\EmployeeProfile.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Mapping\\EmployeeProfile.cs",
+              "RelativeToolTip": "Warehouse.API\\Mapping\\EmployeeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StorageProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Mapping\\StorageProductProfile.cs",
+              "RelativeDocumentMoniker": "Warehouse.API\\Mapping\\StorageProductProfile.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.API\\Mapping\\StorageProductProfile.cs",
+              "RelativeToolTip": "Warehouse.API\\Mapping\\StorageProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StorageProducts.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Shared\\DTOs\\StorageProducts.cs",
+              "RelativeDocumentMoniker": "Warehouse.Shared\\DTOs\\StorageProducts.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Shared\\DTOs\\StorageProducts.cs",
+              "RelativeToolTip": "Warehouse.Shared\\DTOs\\StorageProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Shared\\DTOs\\Products.cs",
+              "RelativeDocumentMoniker": "Warehouse.Shared\\DTOs\\Products.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Shared\\DTOs\\Products.cs",
+              "RelativeToolTip": "Warehouse.Shared\\DTOs\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Warehouse.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Warehouse.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Warehouse.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Warehouse.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Domain\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "Warehouse.Domain\\Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.Domain\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "Warehouse.Domain\\Interfaces\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\UnitOfWork.cs",
+              "RelativeToolTip": "Warehouse.DAL\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Warehouse.DAL\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WarehouseDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Migrations\\WarehouseDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\Migrations\\WarehouseDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Migrations\\WarehouseDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Warehouse.DAL\\Migrations\\WarehouseDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20221201003113_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Migrations\\20221201003113_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\Migrations\\20221201003113_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Migrations\\20221201003113_InitialMigration.cs",
+              "RelativeToolTip": "Warehouse.DAL\\Migrations\\20221201003113_InitialMigration.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAABgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Configuration\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "Warehouse.DAL\\Configuration\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\LIIIY4962\\Downloads\\\u0422\u0435\u0441\u0442\u043E\u0432\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435\\Warehouse.DAL\\Configuration\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "Warehouse.DAL\\Configuration\\EmployeeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:15:55.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

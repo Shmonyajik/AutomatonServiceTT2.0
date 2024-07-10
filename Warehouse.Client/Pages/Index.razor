@@ -1,0 +1,216 @@
+﻿@page "/"
+@using Warehouse.Shared.DTOs.Products
+@using Warehouse.Shared.DTOs.Storages
+@using System.Text.Json
+@using System.Text
+@using Microsoft.AspNetCore.SignalR.Client;
+
+@implements IAsyncDisposable;
+
+@inject NavigationManager Navigation 
+@inject HttpClient WarehouseApi
+
+<PageTitle>Управление складом</PageTitle>
+
+<div class="mb-3 w-25">
+    <Label For="select" class="form-label mb-0">Номер склада</Label>
+    <Select TValue="long" SelectedValue="@_storageId" SelectedValueChanged="@OnStorageIdChanged" id="select">
+        <SelectItem Value="1">1</SelectItem>
+        <SelectItem Value="2">2</SelectItem>
+        <SelectItem Value="3">3</SelectItem>
+    </Select>
+</div>
+
+<DataGrid TItem="ProductWithQuantity"
+          Data="@_products"
+          RowSelectable="args => false"
+          Responsive
+          Editable
+          ShowPager
+          CommandMode="DataGridCommandMode.ButtonRow"
+          EditMode="DataGridEditMode.Inline">
+    <DataGridColumns>
+        <DataGridNumericColumn Field="@nameof(ProductWithQuantity.ProductId)" Caption="Товарный номер"></DataGridNumericColumn >
+        <DataGridColumn Field="@nameof(ProductWithQuantity.Name)" Caption="Название" Editable="@false"></DataGridColumn>
+        <DataGridNumericColumn Field="@nameof(ProductWithQuantity.Quantity)" Caption="Количество"></DataGridNumericColumn >
+        <DataGridColumn Caption="Добавить / Убавить">
+            <DisplayTemplate>
+                <Buttons>
+                    <Button Color="Color.Success" Outline Clicked="() => OnChangeQuantity(context, 1)">+</Button>
+                    <Button Color="Color.Danger" Outline Clicked="() => OnChangeQuantity(context, -1)">-</Button>
+                </Buttons>
+            </DisplayTemplate>
+        </DataGridColumn>
+    </DataGridColumns>
+    <ButtonRowTemplate>
+        <Button Color="Color.Success" Clicked="ShowProductModal">New</Button>
+    </ButtonRowTemplate>
+</DataGrid>
+
+<Modal @ref="_addProductModalRef">
+    <ModalContent Centered>
+        <ModalHeader>
+            <ModalTitle>Добавление товара</ModalTitle>
+            <CloseButton/>
+        </ModalHeader>
+        <ModalBody>
+            <Field>
+                <Label Placeholder="Выберите номер товара"/>
+                @if (_allProducts != null)
+                {
+                    <Select @bind-SelectedValue="@_newProductId">
+                        @foreach (var product in _allProducts)
+                        {
+                            <SelectItem Value="product.Id">@product.Id (@product.Name)</SelectItem>
+                        }
+                    </Select>
+                }
+            </Field>
+        </ModalBody>
+        <ModalFooter>
+            <Button Color="Color.Secondary" Clicked="@HideProductModal">Close</Button>
+            <Button Color="Color.Success" Clicked="@AddProduct">Submit</Button>
+        </ModalFooter>
+    </ModalContent>
+</Modal>
+
+@code
+{
+    private HubConnection? _hubConnection;
+
+    private long _storageId = 1;
+    private List<ProductWithQuantity>? _products;
+
+    private Modal _addProductModalRef;
+    private long _newProductId;
+
+    private List<ProductDto>? _allProducts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadStorage();
+        _allProducts = await WarehouseApi.GetFromJsonAsync<List<ProductDto>>("api/Product");
+
+        _hubConnection = new HubConnectionBuilder()
+            .WithUrl(Navigation.ToAbsoluteUri("/storageHub"))
+            .Build();
+
+        _hubConnection.On<long, long, int>("ReceiveQuantityChanged", (storageId, productId, quantityDiff) =>
+        {
+            if (_storageId != storageId) return;
+
+            var productIndex = _products.FindIndex(p => p.ProductId == productId);
+            var productOld = _products[productIndex];
+            _products[productIndex] = productOld with {Quantity = productOld.Quantity + quantityDiff};
+            StateHasChanged();
+        });
+
+        _hubConnection.On<long, long>("ReceiveProductAdded", (storageId, productId) =>
+        {
+            if (_storageId != storageId) return;
+
+            var product = _allProducts.Find(p => p.Id == productId);
+            if (product is null) return;
+
+            if (_products.Any(p => p.ProductId == productId)) return;
+
+            _products.Add(new ProductWithQuantity(product.Id, product.Name, 1));
+            StateHasChanged();
+        });
+
+        await _hubConnection.StartAsync();
+    }
+
+    private async Task OnChangeQuantity(ProductWithQuantity product, int quantityDiff)
+    {
+        var dto = new StorageIncreaseProductQuantityDto(product.ProductId, quantityDiff);
+
+        var serializedDto = JsonSerializer.Serialize(dto);
+        var requestContent = new StringContent(serializedDto, Encoding.UTF8, "application/json-patch+json");
+
+        var response = await WarehouseApi.PatchAsync($"/api/storage/{_storageId}/increaseProductQuantity", requestContent);
+
+        if (response.IsSuccessStatusCode)
+        {
+            if (_hubConnection is not null)
+            {
+                await _hubConnection.SendAsync("SendQuantityChanged", _storageId, product.ProductId, quantityDiff);
+            }
+
+            var storageDto = await response.Content.ReadFromJsonAsync<StorageDto>();
+            var changedProduct = storageDto.Products.First(p => p.ProductId == product.ProductId);
+
+            var indexOfProduct = _products.IndexOf(product);
+            _products[indexOfProduct] = product with {Quantity = changedProduct.Quantity};
+        }
+        else
+            Console.WriteLine(await response.Content.ReadAsStringAsync());
+    }
+
+    private async Task LoadStorage()
+    {
+        var response = await WarehouseApi.GetAsync($"/api/Storage/{_storageId}");
+        if (response.IsSuccessStatusCode)
+        {
+            _products = new List<ProductWithQuantity>();
+            var storageDto = await response.Content.ReadFromJsonAsync<StorageDto>();
+
+            foreach (var storageProduct in storageDto.Products)
+            {
+                var product = await WarehouseApi.GetFromJsonAsync<ProductDto>($"api/product/{storageProduct.ProductId}");
+                _products.Add(new ProductWithQuantity(product.Id, product.Name, storageProduct.Quantity));
+            }
+        }
+        else
+            Console.WriteLine(await response.Content.ReadAsStringAsync());
+    }
+
+    private async Task OnStorageIdChanged(long value)
+    {
+        _storageId = value;
+        await LoadStorage();
+    }
+
+    private async Task ShowProductModal()
+    {
+        await _addProductModalRef.Show();
+    }
+
+    private async Task HideProductModal()
+    {
+        await _addProductModalRef.Hide();
+    }
+
+    private async Task AddProduct()
+    {
+        if (_products.All(p => p.ProductId != _newProductId))
+        {
+            var dto = new AddProductDto(_newProductId);
+            var response = await WarehouseApi.PostAsJsonAsync($"/api/storage/{_storageId}/addProduct", dto);
+            if (response.IsSuccessStatusCode)
+            {
+                if (_hubConnection is not null)
+                {
+                    await _hubConnection.SendAsync("SendProductAdded", _storageId, _newProductId);
+                }
+
+                var storageDto = await response.Content.ReadFromJsonAsync<StorageDto>();
+                var addedStorageProduct = storageDto.Products.First(p => p.ProductId == _newProductId);
+                var newProductDto = _allProducts.Find(p => p.Id == _newProductId);
+                _products.Add(new ProductWithQuantity(newProductDto.Id, newProductDto.Name, addedStorageProduct.Quantity));
+            }
+            else
+                Console.WriteLine(await response.Content.ReadAsStringAsync());
+        }
+
+        await HideProductModal();
+    }
+
+    public async ValueTask DisposeAsync()
+    {
+        if (_hubConnection is not null)
+        {
+            await _hubConnection.DisposeAsync();
+        }
+    }
+    } 
